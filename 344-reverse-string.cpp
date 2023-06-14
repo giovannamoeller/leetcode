@@ -15,8 +15,6 @@ void reverseString(vector<char>& s) {
 
 int main() {
   vector<char> s = {'h', 'e', 'l', 'l', 'o'};
-  
   reverseString(s);
-  
   return 0;
 }
